@@ -1,0 +1,37 @@
+header, main, nav, footer, section, article, figure, figcaption, aside { display: block; }
+header { text-align: center; text-shadow: 4px 4px 5px #996666; color: #000000; }
+body { background-color:#FFFF99; font-family: Comic Sans Ms, Tahoma, Verdana; }
+nav { background-color:#FFCC00; font-family: Comic Sans Ms, Tahoma, Verdana; text-align: center; font-weight: bold; font-style: italic;  }
+nav ul { list-style-type: none; }
+nav li { display: inline; }
+nav a { text-decoration: none; padding: 10px; width: auto; }
+nav a:link { color: #330000; }
+nav a:visited { color: #000000; }
+nav a:hover { color: #ff9933; }
+nav a:active { color: #ffff99; }
+h4 { text-align: center; }
+h4 a:link { color: #330000; }
+h4 a:visited { color: #000000; }
+h4 a:hover { color: #ff9933; }
+h4 a:active { color: #ffff99; }
+img { max-width: 100%; height: auto; }
+footer { background-color:#FF9933; font-family: Comic Sans Ms, Tahoma, Verdana; text-align: center; font-style: italic; }
+.divsel { background-color:#f5deb3; background-image: url(parchp.jpg); background-size: 100% 100%; background-position: center; 
+		  background-repeat: no-repeat; margin-right: 100px; margin-left: 100px; margin-bottom: 5px; padding: 3%;
+			font-family: Comic Sans Ms, Tahoma, Verdana; text-align: center; border: 5px groove #330000; }
+h1 { font-family: Lucida Handwriting; }
+h2 { font-family: Lucida Handwriting; text-align: center; }
+#maindiv1 { font-family: Comic Sans Ms, Tahoma, Verdana; background-size: 100%; }
+#maindiv2 { background-color:#f5deb3; background-image: url(parchp.jpg); background-size: 100%; background-position: center; 
+		  background-repeat: no-repeat; margin-right: 10%; margin-left: 10%; margin-top: 2%; padding: 2%;
+			font-family: Comic Sans Ms, Tahoma, Verdana; text-align: center; }
+dl { text-align: left; }
+.divsel ul { list-style-image: url(inkfeather1.png); width: 300px; margin: auto; }
+#maindiv2 ul { list-style-image: url(openbook.png); width: 500px; margin: auto; }
+label { float: left; clear: left; display: block; width: 100px; padding-right: 10px; margin-top: 10px; text-align:right; }
+input { display: block; margin-top: 10px; }
+textarea { display: block; margin-top: 10px; margin-left: 110px;  }
+input[type="submit"] { margin: auto; }
+table { width: 750px; margin: auto; margin-left: 100px; padding: 20px; }
+form { margin: auto; padding: 10px; }
+
