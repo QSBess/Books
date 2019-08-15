@@ -2,7 +2,7 @@ header, main, nav, footer, section, article, figure, figcaption, aside { display
 header { text-align: center; text-shadow: 4px 4px 5px #996666; color: #000000; }
 body { background-color:#FFFF99; font-family: Comic Sans Ms, Tahoma, Verdana; }
 nav { background-color:#FFCC00; font-family: Comic Sans Ms, Tahoma, Verdana; text-align: center; font-weight: bold; 
-	font-style: italic; padding: 3px; }
+	font-style: italic; padding: 1px; }
 nav ul { list-style-type: none; }
 nav li { display: inline; padding: 5px;}
 nav a {  width: auto; }
