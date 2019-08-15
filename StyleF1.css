@@ -41,7 +41,7 @@ dl { text-align: left; }
 label { float: left; clear: left; display: block; width: 100px; padding-right: 10px; margin-top: 10px; text-align:right; }
 input { display: block; margin-top: 10px; }
 textarea { display: block; margin-top: 10px; margin-left: 110px;  }
-input[type="submit"] { margin: auto; }
+input[type="submit"] { margin: auto; padding: 10px;}
 table { width: 750px; margin: auto; margin-left: 100px; padding: 20px; }
 form { margin: auto; padding: 10px; }
 
