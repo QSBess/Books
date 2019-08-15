@@ -30,6 +30,7 @@ h2 { font-family: Lucida Handwriting; text-align: center; }
 dl { text-align: left; }
 .divsel ul { list-style-image: url(inkfeather1.png); width: 300px; margin: auto; }
 #maindiv2 ul { list-style-image: url(openbook.png); width: 500px; margin: auto; }
+#maindiv2 li { padding-left: 25px; }
 label { float: left; clear: left; display: block; width: 100px; padding-right: 10px; margin-top: 10px; text-align:right; }
 input { display: block; margin-top: 10px; }
 textarea { display: block; margin-top: 10px; margin-left: 110px;  }
